@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @shaikhjavedofficial
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Greetings,+I+am+Shaikh+Javed;Feel+Free+to+Explore&center=true&vCenter=true&width=1200&height=100&size=50&color=fcf2b6&background=040940)](https://git.io/typing-svg)
+     
 - 👀 I’m interested in web technologies, data science, machine learning and robotics.
 - 💻 I’m currently working as Full Stack web developer using reactJs, angularJs.
 - ⌨️ Languages i work with:
@@ -20,8 +22,9 @@
 </a>
 
 <a>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&cover_image=true&theme=compact"/>
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&cover_image=true&theme=default&bar_color=170068&bar_color_cover=false"/>
 </a>
+
 
 
 ![](https://komarev.com/ghpvc/?username=shaikhjavedofficial)
