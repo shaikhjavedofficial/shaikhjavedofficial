@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shaikhjavedofficial
 - 👀 I’m interested in web technologies, data science, machine learning and robotics.
-- 🌱 I’m currently learning web development using react, angular, python.
+- 💻 I’m currently working as Full Stack web developer using reactJs, angularJs.
+- ⌨️ Languages i work with:
+     Javascript, typescript, python, java.
 - 💞️ I’m looking to collaborate on web technologies, data science, machine learning and robotics.
 - 📫 you can reach me
                     - Email: skjaved633@gmail.com,
