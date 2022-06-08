@@ -12,24 +12,27 @@
                     - twitter: @shaikh__javed,
 
 
+<div align="center">
+     <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=shaikhjavedofficial&count_private=true&show_icons=true&theme=tokyonight" width="500" height="300"/>
+     </a>
+     <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
+          <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhjavedofficial&langs_count=20" />
+     </a>
+</div>
 
-- Stack overflow [![Shaikh Javed StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/19238586)](https://stackoverflow.com/users/19238586/shaikh-javed)
+<div align="center">
+     <a>
+          <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&cover_image=true&theme=default&bar_color=170068&bar_color_cover=false" />
+     </a>
+</div>
 
-<a href="https://github.com/shaikhjavedofficial/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhjavedofficial&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/shaikhjavedofficial/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhjavedofficial&langs_count=20" />
-</a>
-
-<a>
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gds2de9w7uesboqft4bqe86te&cover_image=true&theme=default&bar_color=170068&bar_color_cover=false"/>
-</a>
-
-
-
-![](https://komarev.com/ghpvc/?username=shaikhjavedofficial)
-
+<div align="center">
+     <a href="https://stackoverflow.com/users/19238586/shaikh-javed">
+          <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/19238586" />
+     </a>
+     <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
+</div>
 
 <!---
 shaikhjavedofficial/shaikhjavedofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
