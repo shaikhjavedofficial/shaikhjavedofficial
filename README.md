@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Greetings,+I+am+Shaikh+Javed;Feel+Free+to+Explore&center=true&vCenter=true&width=1200&height=100&size=50&color=fcf2b6&background=040940)](https://git.io/typing-svg)
      
-- 👀 I’m interested in web technologies, data science, machine learning and robotics.
-- 💻 I’m currently working as Full Stack web developer using reactJs, angularJs.
+- 👀 I’m interested in web technologies like React.js, Next.js and data science, machine learning and robotics.
+- 💻 I’m currently working as SDE.
 - ⌨️ Languages i work with:
      Javascript, typescript, python, java.
 - 💞️ I’m looking to collaborate on web technologies, data science, machine learning and robotics.
@@ -31,6 +31,9 @@
      <a href="https://stackoverflow.com/users/19238586/shaikh-javed">
           <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/19238586" />
      </a>
+     <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
+</div>
+<div>
      <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
 </div>
 
