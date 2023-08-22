@@ -31,9 +31,8 @@
      <a href="https://stackoverflow.com/users/19238586/shaikh-javed">
           <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/19238586" />
      </a>
-     <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
 </div>
-<div>
+<div align="center">
      <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
 </div>
 
