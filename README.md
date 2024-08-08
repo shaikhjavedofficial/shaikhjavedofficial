@@ -7,7 +7,7 @@
      Javascript, typescript, python, java.
 - 💞️ I’m looking to collaborate on web technologies, data science, machine learning and robotics.
 - 📫 you can reach me
-                    - Email: shaikhjavedofficial@gmail.com.
+                    - Email: shaikhjavedofficial@gmail.com, javedsk.javed@live.com
                     - linkedin: http://linkedin.com/in/shaikh-javed,
                     - Instagram: https://www.instagram.com/shaikhjavedofficial.
 
