@@ -12,6 +12,19 @@
                     - Instagram: https://www.instagram.com/shaikhjavedofficial.
 
 
+
+<div align="center">
+     <a href="https://github.com/shaikhjavedofficial/react-parcel-typescript-app">
+          <h1>
+               Feel free to use my new React Template
+          </h1>
+          <h3>
+               Created usng React, Pacel, Typescript, Redux
+          </h3>
+          <img src="https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png" />
+     </a>
+</div>
+
 <div align="center">
      <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api?username=shaikhjavedofficial&count_private=true&show_icons=true&theme=tokyonight" width="500" height="300"/>
@@ -34,11 +47,6 @@
 </div>
 <div align="center">
      <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
-</div>
-<div align="center">
-     <link to="https://github.com/shaikhjavedofficial/react-parcel-typescript-app">
-     <img src="https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png" />
-</link>
 </div>
 
 <!---
