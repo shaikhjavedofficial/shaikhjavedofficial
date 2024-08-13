@@ -13,8 +13,8 @@
 
 
 
-<div align="center">
-     <a href="https://github.com/shaikhjavedofficial/react-parcel-typescript-app">
+<a href="https://github.com/shaikhjavedofficial/react-parcel-typescript-app">
+     <div align="center">
           <h1>
                Feel free to use my new React Template
           </h1>
@@ -22,8 +22,8 @@
                Created usng React, Pacel, Typescript, Redux
           </h3>
           <img src="https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png" />
-     </a>
-</div>
+     </div>
+</a>
 
 <div align="center">
      <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
