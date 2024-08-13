@@ -22,6 +22,7 @@
           </h3>
           <img src="https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png" />
 </div>
+<hr/>
 
 <div align="center">
      <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
