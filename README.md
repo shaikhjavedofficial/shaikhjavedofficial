@@ -37,7 +37,7 @@
 </div>
 <div align="center">
      [![crisp_logo](https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png)](https://github.com/shaikhjavedofficial/react-parcel-typescript-app)
-
+     <img src="https://github.com/shaikhjavedofficial/react-parcel-typescript-app/blob/main/public/assets/crisp_logo.png" />
 </div>
 
 <!---
