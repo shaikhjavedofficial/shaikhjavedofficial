@@ -35,6 +35,10 @@
 <div align="center">
      <img src="https://komarev.com/ghpvc/?username=shaikhjavedofficial" />
 </div>
+<div align="center">
+     [![crisp_logo](https://github.com/user-attachments/assets/e4d760db-46f7-44c2-8b9c-24917f918e9f)](https://github.com/shaikhjavedofficial/react-parcel-typescript-app)
+
+</div>
 
 <!---
 shaikhjavedofficial/shaikhjavedofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
