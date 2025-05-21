@@ -29,7 +29,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=shaikhjavedofficial&count_private=true&show_icons=true&theme=tokyonight" width="500" height="300"/>
      </a>
      <a href="https://github.com/shaikhjavedofficial/github-readme-stats">
-          <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhjavedofficial&langs_count=20" />
+          <img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhjavedofficial&langs_count=200" />
      </a>
 </div>
 
